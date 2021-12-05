@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
-      <p><a>open-source code</a>, by Mozhgan Ameri</p>
+      <p><a href="https://github.com/Mozhganameri/npm">open-source code</a>, by Mozhgan Ameri</p>
     </div>
   );
 }
